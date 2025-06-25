@@ -9,10 +9,10 @@ h1 {
     font-size: 40px;
 }
 p{
- font-size: 20px;
+   font-size: 20px;
 }
-
-    header{
-        border: 2px rgb (42,122,228);
+ header{
+    border-bottom: solid 2px rgb (42,122,228);
+    padding: 20px;
 }
     
