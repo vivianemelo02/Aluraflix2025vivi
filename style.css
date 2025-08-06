@@ -36,7 +36,13 @@ img {
     overflow-x: auto;
     gap: 10px;
     }
+.categoria-videos img {
+     opacity: 0.5;
+}
 
+.categoria-videos img:hover {
+     opacity: 1.0;
+}
     .categoria {
     padding-left: 20px;
     padding-right: 20px;
